@@ -1,0 +1,2 @@
+# Slotgamefile
+test code
